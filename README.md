@@ -1,2 +1,3 @@
 # MI&BD_project
- project for Medical Imagind & Big Data
+project for Medical Imagind & Big Data
+- Matteo Corona
