@@ -1,3 +1,3 @@
 # MIBD-project
-project for Medical Imagind & Big Data
+Medical Imagind & Big Data project
 - Matteo Corona
